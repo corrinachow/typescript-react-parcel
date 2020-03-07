@@ -8,5 +8,6 @@
     "incremental": false,
     "experimentalDecorators": true,
     "lib": ["dom", "es2015"]
-  }
+  },
+  "include": ["src/**/*", "test/**/*"]
 }
